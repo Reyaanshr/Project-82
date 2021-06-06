@@ -1,0 +1,19 @@
+.body_background{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e0/Multicolored_tempera_paints.jpg");
+    background-position: center;
+    background-size: cover;
+}
+body{
+    cursor: pointer;
+}
+h1{
+    color: blueviolet;
+    font-size: large;
+}
+canvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+    border-color: black;
+}
+
